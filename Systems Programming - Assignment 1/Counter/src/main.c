@@ -7,7 +7,7 @@
 
 #define BUFFSIZ			4096
 #define LOGFILE			"counter.log"
-#define LOGFILE_BUFFSIZ 256
+#define LOGFILE_BUFFSIZ		256
 #define YEAR_OFFSET		1900
 
 int main(int argc, char *argv[]) {
